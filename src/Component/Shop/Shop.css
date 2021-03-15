@@ -1,0 +1,15 @@
+.shop-area{
+    display: flex;
+}
+
+.product-area{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid gray;
+}
+
+
+.cart-area{
+    width: 30%;
+}
