@@ -41,7 +41,7 @@ const Review = () => {
 
     let thankYou;
     if(orderPlace){
-        thankYou = <img src={happyImages}/>;
+        thankYou = <img src={happyImages} alt=""/>
     }
 
     return (
